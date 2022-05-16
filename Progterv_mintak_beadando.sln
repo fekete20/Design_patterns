@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progterv_mintak_beadando", "Progterv_mintak_beadando\Progterv_mintak_beadando.csproj", "{7F0A2967-9EB2-4771-9E7F-15F05D87F433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F0A2967-9EB2-4771-9E7F-15F05D87F433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0A2967-9EB2-4771-9E7F-15F05D87F433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0A2967-9EB2-4771-9E7F-15F05D87F433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0A2967-9EB2-4771-9E7F-15F05D87F433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B01494CE-521F-4F59-82F4-25373F916B1B}
+	EndGlobalSection
+EndGlobal
